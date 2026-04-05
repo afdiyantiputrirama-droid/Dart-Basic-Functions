@@ -1,4 +1,4 @@
-# 📌 Drat Basic Function (Menyapa, Kalkulator Luas Persegi, Kalkulator Diskon
+# 📌 Dart Basic Function (Menyapa, Kalkulator Luas Persegi, Kalkulator Diskon
 )
 
 ## 👩‍💻 Deskripsi 
