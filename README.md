@@ -118,6 +118,3 @@ harga akhir = harga - (harga × persen / 100)
 main() → kirim harga & diskon → function → hitung → return → print
 ```
 
-
-
-✨ Project ini cocok untuk pemula yang ingin memahami dasar function dalam Dart.
