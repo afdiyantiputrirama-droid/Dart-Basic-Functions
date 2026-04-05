@@ -1,4 +1,4 @@
-# 📌 Drat Basic Function (Menyapa, Kalkulator Luas Perseg, Kalkulator Diskon
+# 📌 Drat Basic Function (Menyapa, Kalkulator Luas Persegi, Kalkulator Diskon
 )
 
 ## 👩‍💻 Deskripsi 
